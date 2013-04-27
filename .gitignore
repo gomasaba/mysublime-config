@@ -1,0 +1,9 @@
+# MAC
+.DS_Store
+# Windows
+Thumbs.db
+
+User/ColorPicker
+User/encoding_cache.json
+User/Package Control.last-run
+User/Side Bar.sublime-settings

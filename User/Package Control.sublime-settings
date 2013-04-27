@@ -1,0 +1,38 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"Alignment",
+		"CakePHP (tmbundle)",
+		"CoffeeScript",
+		"ColorPick",
+		"ConvertToUTF8",
+		"CSScomb",
+		"DocBlockr",
+		"Emmet",
+		"Gist",
+		"Git",
+		"LiveReload",
+		"Nettuts+ Fetch",
+		"nginx",
+		"Octopress",
+		"OmniMarkupPreviewer",
+		"Open Folder",
+		"Package Control",
+		"PHPUnit",
+		"PHPUnit Completions",
+		"SFTP",
+		"SideBarEnhancements",
+		"SublimeCakePHP",
+		"SublimeCodeIntel",
+		"sublimelint",
+		"Terminal",
+		"Theme - Phoenix",
+		"TrailingSpaces",
+		"ZenCoding"
+	],
+	"repositories":
+	[
+		"https://github.com/openam/SublimeCakePHP"
+	]
+}
