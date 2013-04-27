@@ -2,8 +2,6 @@
 
 windows < > imac <> air で設定を共通するために。
 
-
-
 ##設定ファイルの場所とハードリンクを貼る
 
 ### mac
@@ -15,6 +13,15 @@ windows < > imac <> air で設定を共通するために。
 	hardlink ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/User ~/mysublime-config/User
 
 ### windows
+・macで設定したファイルを持ってくる
 
+ハードリンクを貼る（１ファイルずつ？）
 
+・元の設定ファイルを削除
 
+	C:\Users\ohta\Documents\mysublime-config\User\Preferences.sublime-settings
+	C:\Users\ohta\Documents\mysublime-config\User\Preferences.sublime-settings
+
+・ハードリンクを貼る
+
+	mklink /H "C:\Users\ohta\AppData\Roaming\Sublime Text 2\Packages\User\Preferences.sublime-settings" "C:\Users\ohta\Documents\mysublime-config\User\Preferences.sublime-settings"
