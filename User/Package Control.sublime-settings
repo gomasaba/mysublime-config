@@ -3,6 +3,7 @@
 	"installed_packages":
 	[
 		"Alignment",
+		"BracketHighlighter",
 		"CakePHP (tmbundle)",
 		"CoffeeScript",
 		"ColorPick",
@@ -21,11 +22,14 @@
 		"Package Control",
 		"PHPUnit",
 		"PHPUnit Completions",
+		"QuickThemes",
+		"Rails Partial",
 		"SFTP",
 		"SideBarEnhancements",
 		"SublimeCakePHP",
 		"SublimeCodeIntel",
 		"sublimelint",
+		"SublimeLinter",
 		"Terminal",
 		"Theme - Phoenix",
 		"TrailingSpaces",

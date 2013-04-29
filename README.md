@@ -10,7 +10,13 @@ windows < > imac <> air で設定を共通するために。
 
 [https://github.com/selkhateeb/hardlink](https://github.com/selkhateeb/hardlink)
 
+メインでのimacでハードリンクを貼る
+
 	hardlink ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/User ~/mysublime-config/User
+
+サブのairでは逆のハードリンクを貼る（元のUserは一旦リネームして退避）
+	hardlink ~/mysublime-config/User/ ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/User
+
 
 ### windows
 ・macで設定したファイルを持ってくる
