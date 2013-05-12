@@ -1,5 +1,9 @@
 [
+	{ "keys": ["ctrl+shift+["], "command": "convert_tabs_to_spaces"},
+	{ "keys": ["ctrl+shift+]"], "command": "convert_spaces_to_tabs"},
+	{ "keys": ["ctrl+s"], "command": "toggle_side_bar" },
 	{ "keys": ["ctrl+shift+t"], "command": "delete_trailing_spaces" },
+	{ "keys": ["alt+m"], "command": "toggle_minimap" },
 	{ "keys": ["super+ctrl+u","super+ctrl+f"], "command": "sftp_upload_file" },
 	{ "keys": ["super+ctrl+u","super+ctrl+r"], "command": "sftp_upload_folder" },
 	{ "keys": ["super+ctrl+u","super+ctrl+y"], "command": "sftp_sync_up" },

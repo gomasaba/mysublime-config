@@ -1,10 +1,12 @@
 {
 	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
-	"font_size": 22.0,
+	"disable_formatted_linebreak": true,
+	"font_size": 23.0,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
+	"jsdocs_extend_double_slash": false,
 	"phoenix_color_green": true,
 	"phoenix_highlight_current_tab": true,
 	"tab_size": 4,
