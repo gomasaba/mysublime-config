@@ -1,4 +1,5 @@
 [
+	{ "keys": ["f12"], "command": "reindent", "args": {"single_line": false} },
 	{ "keys": ["ctrl+shift+["], "command": "convert_tabs_to_spaces"},
 	{ "keys": ["ctrl+shift+]"], "command": "convert_spaces_to_tabs"},
 	{ "keys": ["ctrl+s"], "command": "toggle_side_bar" },
